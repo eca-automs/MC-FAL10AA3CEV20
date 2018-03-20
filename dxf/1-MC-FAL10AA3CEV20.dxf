@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-220.7371692498821
+220.8305930861957
  22
-144.1933889483357
+144.2897786207227
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-298.0895106109519
+298.2333536605141
  41
-1.681735985533454
+1.680924855491329
  42
 50
  43
@@ -8215,52 +8215,6 @@ ByLayer
 100
 AcDbMText
  10
-210
- 20
-200
- 30
-0
- 40
-10
- 41
-190.8333312133125
- 71
-    2
- 72
-    1
-  1
-SCHEMA MC-FAL10AA3CEV20\P\PVERSIONE 0.0.0
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-F7
-100
-AcDbEntity
-  8
-text
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
 30.37353361422378
  20
 44.54784930086155
@@ -8293,7 +8247,7 @@ standard
   0
 MTEXT
   5
-F8
+F7
 100
 AcDbEntity
   8
@@ -8322,6 +8276,52 @@ AcDbMText
     1
   1
 Schema: MC-FAL10AA3CEV20\PFoglio: 1 di 18
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+F8
+100
+AcDbEntity
+  8
+text
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+210
+ 20
+200
+ 30
+0
+ 40
+10
+ 41
+190.8333312133125
+ 71
+    2
+ 72
+    1
+  1
+SCHEMA MC-FAL10AA3CEV20\P\PVERSIONE 0.0.1
   7
 standard
 210
