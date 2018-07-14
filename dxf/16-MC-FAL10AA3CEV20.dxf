@@ -2357,7 +2357,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-standard
+iso
  70
     0
  40
@@ -2371,7 +2371,7 @@ standard
  42
 1
   3
-standard
+iso
   4
 
   0
@@ -2385,7 +2385,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-iso
+standard
  70
     0
  40
@@ -2399,7 +2399,7 @@ iso
  42
 1
   3
-iso
+standard
   4
 
   0
@@ -8479,74 +8479,6 @@ FE
 100
 AcDbEntity
   8
-schematic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-30
- 20
-250
- 30
-0
- 40
-3
- 41
-199.4999983946544
- 71
-    1
- 72
-    1
-  3
-CF1 - CF2                      CONTATTO CHIAVE EMERGENZA PORTA ACCESSO IN FOSSA\P1 - 2                          EXTRA CORSA\P2-3-3A                         ALT E BOTTONIERE MANUTENZIONE TETTO E FOSSA\P3A - 4                         MORSETTI DA LASCIA
-  3
-RE VUOTI (NO CIRCUITI)\P4 - 5                          INTER FOSSA\P5 - 6                          ALT CABINA\P6 - 6A                         CEV A3 SICUREZZE (NC)\P6 - 7                          PARACADUTE\P7 - 8                          PRELIMINARI
-  3
-\P8 - 9                          PORTE CABINA\P9 - 9A                         CONTATTO CEV A3 ANTIDERIVA (NO)\P9 - 10                         BLOCCHI\PGND - MA                       DEVIATORE MANUTENZIONE PULSANTIERE TETTO E FOSSA\PGND - UP, GND - DW
-  3
-             PULSANTI ISPEZIONE TETTO E FOSSA\P0  - 1...                      CHIAMATE (SU PERIFERICA QUADRO)\PCB                             COMUNE BOTTONIERA CABINA\PCE                             COMUNE BOTTONIERE PIANI\PGND - FCD                 
-  3
-     BISTABILE FINE CORSA DISCESA\PGND - FCS                      BISTABILE FINE CORSA SALITA\PGND - ID                       INDUTTORE (NO) CONTEGGIO E FERMATA DISCESA\PGND - IS                       INDUTTORE (NO) CONTEGGIO E FERMATA SALITA\PGND - 
-  3
-IAX                      INDUTTORE FERMATA CON PIANI CORTI ESTREMI\PGND - PA                       PULSANTE APERTURA PORTE\PGND - SVR                      CONTATTO SOVRACCARICO (OBBLIGATORIO TIPO "NC" PER A3)\PGND - CM1                      COSTOLA M
-  3
-OBILE - FOTOCELLULA LATO1\PGND - CM2                      COSTOLA MOBILE - FOTOCELLULA LATO2\PGND - FM                       FONDO MOBILE\PPT1 - PT2                      TERMORESISTENZE MOTORE ARGANO\PPT2 - PT3                      TERMORESISTENZE MO
-  3
-TORE PORTE\PCL - 0, CL - 1...              SEGNALAZIONE POSIZIONE (SU PERIFERICA QUADRO)\PCL - FS                        SEGNALAZIONE FRECCIA SALITA\PCL - FD                        SEGNALAZIONE FRECCIA DISCESA\PCL - SV                        SEGNALAZ
-  3
-IONE SOVRACCARICO\PCL - GON                       SEGNALAZIONE GONG IN CABINA\PPE                             RITORNO PRESENTE\PCL - PE                        ALIMENTAZIONE FOTOCELLULE\PPR+ - PR-                      PATTINO RETRATTILE\PFR+ - FR-    
-  3
-                  FRENO ARGANO\PCV1 - CV2                      CONTATTO CONTROLLO BOBINA CEV ANTIDERIVA (NC)\PCV- \ CV+                      BOBINA CEV ANTIDERIVA 24V\PCX1 - CX2                      CONTATTI PER MANOVRA A MANO\P                      
-  3
-          STACCANDO CORRENTE SI CHIUDE CONT SU INT TRIFASE\P                                E AZIONANDO L'ALTRO INTER SI ALIMENTA LA BOBINA\P                                DEL CEV PER EFFETTUTARE LA MANOVRA A MANO\PLZ1 - LZ2                      SPI
-  1
-A + BUZZER MOVMENTO IN MANUTENZIONE CON BYPASS\P\PTN                             COMUNE TERRE QUADRO\P
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-FF
-100
-AcDbEntity
-  8
 frame-title
   6
 ByLayer
@@ -8572,6 +8504,72 @@ AcDbMText
     1
   1
 Schema: MC-FAL10AA3CEV20\PFoglio: 16 di 18
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+FF
+100
+AcDbEntity
+  8
+schematic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+30
+ 20
+250
+ 30
+0
+ 40
+3
+ 41
+199.4999983946544
+ 71
+    1
+ 72
+    1
+  3
+CF1 - CF2                      CONTATTO CHIAVE EMERGENZA PORTA ACCESSO IN FOSSA\P91 - 92                        2%%DCONTATTO OPERATORE LATO1 PORTE CHIUSE PER EN81-20\P92 - 93                        2%%DCONTATTO OPERATORE LATO2 PORTE CHIUSE PER EN81-2
+  3
+0\P1 - 2                          EXTRA CORSA\P2-3-3A                         ALT E BOTTONIERE MANUTENZIONE TETTO E FOSSA\P3A - 4                         MORSETTI DA LASCIARE VUOTI (NO CIRCUITI)\P4 - 5                          INTER FOSSA\P5 - 6     
+  3
+                     ALT CABINA\P6 - 6A                         CEV A3 SICUREZZE (NC)\P6 - 7                          PARACADUTE\P7 - 8                          PRELIMINARI\P8 - 9                          PORTE CABINA\P9 - 9A                         
+  3
+CONTATTO CEV A3 ANTIDERIVA (NO)\P9 - 10                         BLOCCHI\PGND - MA                       DEVIATORE MANUTENZIONE PULSANTIERE TETTO E FOSSA\PGND - UP, GND - DW             PULSANTI ISPEZIONE TETTO E FOSSA\P0  - 1...                      
+  3
+CHIAMATE (SU PERIFERICA QUADRO)\PCB                             COMUNE BOTTONIERA CABINA\PCE                             COMUNE BOTTONIERE PIANI\PGND - FCD                      BISTABILE FINE CORSA DISCESA\PGND - FCS                      BISTABILE FI
+  3
+NE CORSA SALITA\PGND - ID                       INDUTTORE (NO) CONTEGGIO E FERMATA DISCESA\PGND - IS                       INDUTTORE (NO) CONTEGGIO E FERMATA SALITA\PGND - IAX                      INDUTTORE FERMATA CON PIANI CORTI ESTREMI\PGND - PA  
+  3
+                     PULSANTE APERTURA PORTE\PGND - SVR                      CONTATTO SOVRACCARICO (OBBLIGATORIO TIPO "NC" PER A3)\PGND - CM1                      COSTOLA MOBILE - FOTOCELLULA LATO1\PGND - CM2                      COSTOLA MOBILE - FOT
+  3
+OCELLULA LATO2\PGND - FM                       FONDO MOBILE\PPT1 - PT2                      TERMORESISTENZE MOTORE ARGANO\PPT2 - PT3                      TERMORESISTENZE MOTORE PORTE\PCL - 0, CL - 1...              SEGNALAZIONE POSIZIONE (SU PERIFERI
+  3
+CA QUADRO)\PCL - FS                        SEGNALAZIONE FRECCIA SALITA\PCL - FD                        SEGNALAZIONE FRECCIA DISCESA\PCL - SV                        SEGNALAZIONE SOVRACCARICO\PCL - GON                       SEGNALAZIONE GONG IN CABINA\
+  3
+PPE                             RITORNO PRESENTE\PCL - PE                        ALIMENTAZIONE FOTOCELLULE\PPR+ - PR-                      PATTINO RETRATTILE\PFR+ - FR-                      FRENO ARGANO\PCV1 - CV2                      CONTATTO CONTRO
+  1
+LLO BOBINA CEV ANTIDERIVA (NC)\PCV- \ CV+                      BOBINA CEV ANTIDERIVA 24V\PLZ1 - LZ2                      SPIA + BUZZER MOVMENTO IN MANUTENZIONE CON BYPASS\PTN                             COMUNE TERRE QUADRO\P
   7
 standard
 210
