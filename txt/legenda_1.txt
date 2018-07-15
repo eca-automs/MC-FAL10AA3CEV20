@@ -1,4 +1,6 @@
 CF1 - CF2                      CONTATTO CHIAVE EMERGENZA PORTA ACCESSO IN FOSSA
+91 - 92                        2°CONTATTO OPERATORE LATO1 PORTE CHIUSE PER EN81-20
+92 - 93                        2°CONTATTO OPERATORE LATO2 PORTE CHIUSE PER EN81-20
 1 - 2                          EXTRA CORSA
 2-3-3A                         ALT E BOTTONIERE MANUTENZIONE TETTO E FOSSA
 3A - 4                         MORSETTI DA LASCIARE VUOTI (NO CIRCUITI)
@@ -38,13 +40,5 @@ PR+ - PR-                      PATTINO RETRATTILE
 FR+ - FR-                      FRENO ARGANO
 CV1 - CV2                      CONTATTO CONTROLLO BOBINA CEV ANTIDERIVA (NC)
 CV- \ CV+                      BOBINA CEV ANTIDERIVA 24V
-
-CX1 - CX2                      CONTATTI PER MANOVRA A MANO A CURA DEL CLIENTE :
----------                      MONTARE UN CONTATTO "NC" SULL'INTERRUTTORE GENERALE
----------                      ED UN INTERRUTTORE "NO" "CEV" - COLLEGARLI IN SERIE
----------                      A QUESTI MORSETTI PER ALIMENTARE LA BOBINA DEL CEV
----------                      PER LA MANOVRA A MANO EDE APPLICARE LE ISTRUZIONI
-
 LZ1 - LZ2                      SPIA + BUZZER MOVMENTO IN MANUTENZIONE CON BYPASS
-
 TN                             COMUNE TERRE QUADRO
