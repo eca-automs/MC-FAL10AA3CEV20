@@ -1,3 +1,11 @@
+<a name="1.0.0"></a>
+## 1.0.0 (2018-07-15)
+
+* modif15 ([5e1ae38](https://github.com/eca-automs/MC-FAL10AA3CEV20/commit/5e1ae38))
+* Updated deps ([c4eb24e](https://github.com/eca-automs/MC-FAL10AA3CEV20/commit/c4eb24e))
+
+
+
 <a name="0.0.1"></a>
 ## <small>0.0.1 (2018-03-20)</small>
 
