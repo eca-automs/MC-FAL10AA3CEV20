@@ -1,3 +1,11 @@
+<a name="1.0.1"></a>
+## <small>1.0.1 (2018-07-19)</small>
+
+* Bump version ([c520d8c](https://github.com/eca-automs/MC-FAL10AA3CEV20/commit/c520d8c))
+* nuovo20 ([5c570b6](https://github.com/eca-automs/MC-FAL10AA3CEV20/commit/5c570b6))
+
+
+
 <a name="1.0.0"></a>
 ## 1.0.0 (2018-07-15)
 
