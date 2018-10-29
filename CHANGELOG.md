@@ -1,3 +1,11 @@
+<a name="2.0.0"></a>
+## 2.0.0 (2018-10-29)
+
+* modif16 ([bb2b8c7](https://github.com/eca-automs/MC-FAL10AA3CEV20/commit/bb2b8c7))
+* Setup project to be published to public docs site. ([a752417](https://github.com/eca-automs/MC-FAL10AA3CEV20/commit/a752417))
+
+
+
 <a name="1.0.1"></a>
 ## <small>1.0.1 (2018-07-19)</small>
 
