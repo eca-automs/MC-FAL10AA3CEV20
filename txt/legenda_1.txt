@@ -6,11 +6,11 @@ CF1 - CF2                      CONTATTO CHIAVE EMERGENZA PORTA ACCESSO IN FOSSA
 3A - 4                         MORSETTI DA LASCIARE VUOTI (NO CIRCUITI)
 4 - 5                          INTER FOSSA
 5 - 6                          ALT CABINA
-6 - 6A                         CEV A3 SICUREZZE (NC)
+6 - 6A                         CONTATTO PRINCIPALE "NC" CEV A3 SICUREZZE
 6 - 7                          PARACADUTE
 7 - 8                          PRELIMINARI
 8 - 9                          PORTE CABINA
-9 - 9A                         CONTATTO CEV A3 ANTIDERIVA (NO)
+9 - 9A                         CONTATTO ANTIDERIVA "NO" SU BOBINA CEV A3
 9 - 10                         BLOCCHI
 GND - MA                       DEVIATORE MANUTENZIONE PULSANTIERE TETTO E FOSSA
 GND - UP, GND - DW             PULSANTI ISPEZIONE TETTO E FOSSA
@@ -38,7 +38,7 @@ PE                             RITORNO PRESENTE
 CL - PE                        ALIMENTAZIONE FOTOCELLULE
 PR+ - PR-                      PATTINO RETRATTILE
 FR+ - FR-                      FRENO ARGANO
-CV1 - CV2                      CONTATTO CONTROLLO BOBINA CEV ANTIDERIVA (NC)
+CV1 - CV2                      CONTATTO ANTIDERIVA "NC" SU BOBINA CEV A3
 CV- \ CV+                      BOBINA CEV ANTIDERIVA 24V
 LZ1 - LZ2                      SPIA + BUZZER MOVMENTO IN MANUTENZIONE CON BYPASS
 TN                             COMUNE TERRE QUADRO

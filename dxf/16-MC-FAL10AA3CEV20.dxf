@@ -8553,23 +8553,23 @@ CF1 - CF2                      CONTATTO CHIAVE EMERGENZA PORTA ACCESSO IN FOSSA\
   3
 0\P1 - 2                          EXTRA CORSA\P2-3-3A                         ALT E BOTTONIERE MANUTENZIONE TETTO E FOSSA\P3A - 4                         MORSETTI DA LASCIARE VUOTI (NO CIRCUITI)\P4 - 5                          INTER FOSSA\P5 - 6     
   3
-                     ALT CABINA\P6 - 6A                         CEV A3 SICUREZZE (NC)\P6 - 7                          PARACADUTE\P7 - 8                          PRELIMINARI\P8 - 9                          PORTE CABINA\P9 - 9A                         
+                     ALT CABINA\P6 - 6A                         CONTATTO PRINCIPALE "NC" CEV A3 SICUREZZE\P6 - 7                          PARACADUTE\P7 - 8                          PRELIMINARI\P8 - 9                          PORTE CABINA\P9 - 9A     
   3
-CONTATTO CEV A3 ANTIDERIVA (NO)\P9 - 10                         BLOCCHI\PGND - MA                       DEVIATORE MANUTENZIONE PULSANTIERE TETTO E FOSSA\PGND - UP, GND - DW             PULSANTI ISPEZIONE TETTO E FOSSA\P0  - 1...                      
+                    CONTATTO ANTIDERIVA "NO" SU BOBINA CEV A3\P9 - 10                         BLOCCHI\PGND - MA                       DEVIATORE MANUTENZIONE PULSANTIERE TETTO E FOSSA\PGND - UP, GND - DW             PULSANTI ISPEZIONE TETTO E FOSSA\P0
   3
-CHIAMATE (SU PERIFERICA QUADRO)\PCB                             COMUNE BOTTONIERA CABINA\PCE                             COMUNE BOTTONIERE PIANI\PGND - FCD                      BISTABILE FINE CORSA DISCESA\PGND - FCS                      BISTABILE FI
+  - 1...                      CHIAMATE (SU PERIFERICA QUADRO)\PCB                             COMUNE BOTTONIERA CABINA\PCE                             COMUNE BOTTONIERE PIANI\PGND - FCD                      BISTABILE FINE CORSA DISCESA\PGND - FCS    
   3
-NE CORSA SALITA\PGND - ID                       INDUTTORE (NO) CONTEGGIO E FERMATA DISCESA\PGND - IS                       INDUTTORE (NO) CONTEGGIO E FERMATA SALITA\PGND - IAX                      INDUTTORE FERMATA CON PIANI CORTI ESTREMI\PGND - PA  
+                  BISTABILE FINE CORSA SALITA\PGND - ID                       INDUTTORE (NO) CONTEGGIO E FERMATA DISCESA\PGND - IS                       INDUTTORE (NO) CONTEGGIO E FERMATA SALITA\PGND - IAX                      INDUTTORE FERMATA CON P
   3
-                     PULSANTE APERTURA PORTE\PGND - SVR                      CONTATTO SOVRACCARICO (OBBLIGATORIO TIPO "NC" PER A3)\PGND - CM1                      COSTOLA MOBILE - FOTOCELLULA LATO1\PGND - CM2                      COSTOLA MOBILE - FOT
+IANI CORTI ESTREMI\PGND - PA                       PULSANTE APERTURA PORTE\PGND - SVR                      CONTATTO SOVRACCARICO (OBBLIGATORIO TIPO "NC" PER A3)\PGND - CM1                      COSTOLA MOBILE - FOTOCELLULA LATO1\PGND - CM2            
   3
-OCELLULA LATO2\PGND - FM                       FONDO MOBILE\PPT1 - PT2                      TERMORESISTENZE MOTORE ARGANO\PPT2 - PT3                      TERMORESISTENZE MOTORE PORTE\PCL - 0, CL - 1...              SEGNALAZIONE POSIZIONE (SU PERIFERI
+          COSTOLA MOBILE - FOTOCELLULA LATO2\PGND - FM                       FONDO MOBILE\PPT1 - PT2                      TERMORESISTENZE MOTORE ARGANO\PPT2 - PT3                      TERMORESISTENZE MOTORE PORTE\PCL - 0, CL - 1...              SEGNA
   3
-CA QUADRO)\PCL - FS                        SEGNALAZIONE FRECCIA SALITA\PCL - FD                        SEGNALAZIONE FRECCIA DISCESA\PCL - SV                        SEGNALAZIONE SOVRACCARICO\PCL - GON                       SEGNALAZIONE GONG IN CABINA\
+LAZIONE POSIZIONE (SU PERIFERICA QUADRO)\PCL - FS                        SEGNALAZIONE FRECCIA SALITA\PCL - FD                        SEGNALAZIONE FRECCIA DISCESA\PCL - SV                        SEGNALAZIONE SOVRACCARICO\PCL - GON                     
   3
-PPE                             RITORNO PRESENTE\PCL - PE                        ALIMENTAZIONE FOTOCELLULE\PPR+ - PR-                      PATTINO RETRATTILE\PFR+ - FR-                      FRENO ARGANO\PCV1 - CV2                      CONTATTO CONTRO
+  SEGNALAZIONE GONG IN CABINA\PPE                             RITORNO PRESENTE\PCL - PE                        ALIMENTAZIONE FOTOCELLULE\PPR+ - PR-                      PATTINO RETRATTILE\PFR+ - FR-                      FRENO ARGANO\PCV1 - CV2       
   1
-LLO BOBINA CEV ANTIDERIVA (NC)\PCV- \ CV+                      BOBINA CEV ANTIDERIVA 24V\PLZ1 - LZ2                      SPIA + BUZZER MOVMENTO IN MANUTENZIONE CON BYPASS\PTN                             COMUNE TERRE QUADRO\P
+               CONTATTO ANTIDERIVA "NC" SU BOBINA CEV A3\PCV- \ CV+                      BOBINA CEV ANTIDERIVA 24V\PLZ1 - LZ2                      SPIA + BUZZER MOVMENTO IN MANUTENZIONE CON BYPASS\PTN                             COMUNE TERRE QUADRO\P
   7
 standard
 210
